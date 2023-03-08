@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishal Singh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 
 
 <!---
